@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Data Scientist's toolbox course project 2/4
+Coursera Data Scientist's toolbox course project exercise: 2/4
